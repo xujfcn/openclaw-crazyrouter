@@ -2,7 +2,7 @@
 
 One command to configure [OpenClaw](https://github.com/openclaw/openclaw) with [Crazyrouter](https://crazyrouter.com) as your AI model provider.
 
-Crazyrouter is an AI API gateway — one API key, 627+ models (GPT-5.4, Claude, Gemini, DeepSeek, etc.) at lower cost.
+Crazyrouter is an AI API gateway — one API key, models in the current catalogue (GPT-5.4, Claude, Gemini, DeepSeek, etc.) at lower cost.
 
 ## Quick Start
 
@@ -39,13 +39,13 @@ Or manually:
 
 ## Supported Models
 
-All 627+ models on Crazyrouter are supported. Popular choices:
+All models in the current catalogue on Crazyrouter are supported. Popular choices:
 
-- `gpt-5.4` — OpenAI's latest flagship
+- `gpt-5.4` — OpenAI coding/chat model
 - `gpt-5.4-mini` — Fast and cheap
-- `claude-opus-4-7` — Anthropic's strongest
+- `claude-opus-4-7` — Anthropic model
 - `claude-sonnet-4-5` — Great balance of speed/quality
-- `gemini-2.5-pro` — Google's best
+- `gemini-2.5-pro` — Google Gemini model
 - `deepseek-r1` — Open-source reasoning model
 - `grok-3` — xAI's model
 
